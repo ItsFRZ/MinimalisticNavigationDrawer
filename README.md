@@ -1,7 +1,7 @@
 # MinimalisticNavigationDrawer
 Minimalistic Navigation Drawer
 
-I have <a href="https://github.com/shrikanth7698/Custom-Navigation-Drawer" target="_blank">Shrikanth Ravi</a> library for this Navigation
+I used <a href="https://github.com/shrikanth7698/Custom-Navigation-Drawer" target="_blank">Shrikanth Ravi</a> library for this Navigation
 drawer module
 
 
